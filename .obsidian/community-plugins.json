@@ -1,5 +1,7 @@
 [
   "calendar",
   "obsidian-tasks-plugin",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
   "obsidian-git"
 ]

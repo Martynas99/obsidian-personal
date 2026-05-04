@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82bc6e6fe22e389a",
+        "id": "3bff031aa91b9393",
         "type": "tabs",
         "children": [
           {
-            "id": "afa8da9097935d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/MIT/6.006/Questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions"
-            }
-          },
-          {
-            "id": "4ebad732c7b4ee36",
+            "id": "8d2ec95e01ff25fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,19 +22,231 @@
             }
           },
           {
-            "id": "9bb20870a254f8e9",
+            "id": "e973441c810dd16c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Programming/MIT/imgs/Pasted image 20250421182811.png"
+                "file": "Side/Side w G/Chat w G.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250421182811"
+              "icon": "lucide-file",
+              "title": "Chat w G"
+            }
+          },
+          {
+            "id": "af004f8a6711b845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/MIT/6.006/Questions from revision.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions from revision"
+            }
+          },
+          {
+            "id": "9fd14aeb199b53bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System design/Homomorphic Encryption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homomorphic Encryption"
+            }
+          },
+          {
+            "id": "b817cc07a5c02aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/MIT/6.006/Lecture 13 Dijkstra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 13 Dijkstra"
+            }
+          },
+          {
+            "id": "7681f2b6567d2cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/MIT/6.006/Lecture 15 DP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 15 DP"
+            }
+          },
+          {
+            "id": "7b552a635691eb71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anki scribbles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anki scribbles"
+            }
+          },
+          {
+            "id": "0426a05caec19fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side/Side w G/Stuff Gregor sent over.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stuff Gregor sent over"
+            }
+          },
+          {
+            "id": "c6bc2a03cb6cc504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side/Side w G/Notes from call.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes from call"
+            }
+          },
+          {
+            "id": "d2c5710558021479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side/Side w G/For meetings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "For meetings"
+            }
+          },
+          {
+            "id": "bf88ce53a309c59f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side/Side w G/Notes from the meeting with Compus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes from the meeting with Compus"
+            }
+          },
+          {
+            "id": "f9ea243d8cfc864e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side/Side w G/Notes from the meeting with Compus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes from the meeting with Compus"
+            }
+          },
+          {
+            "id": "d9924294f064ae06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side/Side w G/Compus - Notes from the meeting with.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Compus - Notes from the meeting with"
+            }
+          },
+          {
+            "id": "b236c963c2df7018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side/Side w G/FTI Consulting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FTI Consulting"
+            }
+          },
+          {
+            "id": "86811962df39d1e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side/Side w G/Brettle - notes from the call.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brettle - notes from the call"
+            }
+          },
+          {
+            "id": "94b00e4f554a09af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recruiters/Notes from call on 15-10-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes from call on 15-10-2025"
+            }
+          },
+          {
+            "id": "41d172af74f7e173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -105,7 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "15058fd07d6f0602",
@@ -121,17 +319,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/MIT/Log.md",
+                "file": "Side/Capytal/Some random notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Log"
+              "title": "Backlinks for Some random notes"
             }
           },
           {
@@ -140,12 +338,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/MIT/Math for CS 6.042J/Notes.md",
+                "file": "Side/Capytal/Some random notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes"
+              "title": "Outgoing links from Some random notes"
             }
           },
           {
@@ -183,7 +381,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,6 +391,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -203,35 +403,51 @@
   },
   "active": "1f82af1819b61c23",
   "lastOpenFiles": [
-    "Programming/MIT/imgs/Pasted image 20250322141656.png",
-    "Programming/MIT/6.006/Lecture 12 Bellman-Ford.md",
-    "main",
-    "Programming/MIT/6.006/Lecture 11.md",
-    "Programming/MIT/imgs/Pasted image 20250421182811.png",
-    "Programming/MIT/6.006/Quiz 1 review.md",
-    "Programming/MIT/6.006/quicknotes.md",
+    "Recruiters/Call w Matteo.md",
+    "Recruiters/Notes from call on 15-10-2025.md",
+    "Side/Side w G/FTI Consulting.md",
+    "Side/Side w G/Brettle - notes from the call.md",
+    "Side/Side w G/For meetings.md",
+    "Side/Side w G/Compus - Notes from the meeting with.md",
+    "Side/Side w G/BRG - Notes from meeting with.md",
+    "Side/Side w G/Notes from call.md",
+    "Side/Side w G/Stuff Gregor sent over.md",
+    "Side/Capytal/Some random notes.md",
+    "Side/Side w G/Chat w G.md",
+    "Pasted image 20260223154915.png",
+    "Pasted image 20260223151243.png",
+    "Pasted image 20260218121010.png",
+    "System design/Homomorphic Encryption.md",
+    "System design/Scalability.md",
+    "System design/HelloInterview/Networking Essentials.md",
+    "Programming/MIT/6.006/Lecture 14 APSP and Johnson's Algorithm.md",
+    "Programming/MIT/6.006/Lecture 15 DP.md",
     "Programming/MIT/6.006/Problem session 4.md",
-    "Programming/MIT/6.006/Questions.md",
-    "Untitled",
-    "Programming/Leetcode/Solved.md",
-    "Programming/Leetcode/Linked Lists.md",
-    "Programming/MIT/6.006/Problem Sheet ideas.md",
-    "Programming/MIT/Math for CS 6.042J/Questions when solving.md",
-    "Programming/MIT/Log.md",
-    "Programming/MIT/imgs",
-    "Programming/MIT/imgs/Pasted image 20250129200610.png",
-    "Programming/MIT/Math for CS 6.042J/Notes.md",
-    "Programming/MIT/6.006",
-    "Programming/MIT/Math for CS 6.042J/imgs/Pasted image 20241005152020.png",
-    "Programming/MIT/Math for CS 6.042J/imgs",
-    "Programming/MIT/Math for CS 6.042J/imgs/Pasted image 20241005152000.png",
-    "Programming/MIT/Math for CS 6.042J",
-    "Programming/MIT",
-    "Programming/Leetcode/img",
-    "Programming/Leetcode/img/Pasted image 20240930201039.png",
-    "Programming/Leetcode/Struggle to solve.md",
-    "Programming/Leetcode",
+    "Programming/MIT/6.006/Lecture 18 DP IV.md",
+    "Programming/MIT/6.006/Lecture 16 DP II - LCS, LIS, Coins.md",
+    "BFS Summary.md",
+    "Programming/readme.md",
+    "System Design 1",
+    "Programming/MIT/6.006/Lecture 12 Bellman-Ford.md",
+    "System design/HelloInterview",
+    "Programming/MIT/6.006/Questions from revision.md",
+    "Programming/MIT/6.006/quicknotes.md",
+    "Programming/MIT/6.006/Quiz 1 review.md",
+    "Programming/MIT/6.006/Quiz 2 review.md",
+    "Side/Side w G",
+    "Side/Capytal",
+    "Recruiters",
+    "System design",
+    "Side",
+    "Programming/MIT/imgs/Pasted image 20250529222223.png",
+    "Programming/MIT/imgs/Pasted image 20250529214822.png",
+    "Programming/MIT/imgs/Pasted image 20250527164344.png",
+    "Programming/MIT/imgs/Pasted image 20250527163027.png",
+    "Programming/MIT/imgs/Pasted image 20250527163918.png",
+    "Pasted image 20250527162629.png",
+    "Pasted image 20250527162334.png",
     "Programming",
-    "Programming/Leetcode/Questions from Exercises.md"
+    "obsidian",
+    "prog"
   ]
 }
