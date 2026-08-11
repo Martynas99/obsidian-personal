@@ -4,249 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "3bff031aa91b9393",
+        "id": "b6e8ae8a5a5b425d",
         "type": "tabs",
         "children": [
           {
-            "id": "8d2ec95e01ff25fb",
+            "id": "4baec218908dbda5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/MIT/6.006/Lecture 11.md",
+                "file": "Recruiters/Sierra product engineering experience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 11"
+              "title": "Sierra product engineering experience"
             }
           },
           {
-            "id": "e973441c810dd16c",
+            "id": "56a07345f9beb3ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side/Side w G/Chat w G.md",
+                "file": "low level design/Low level design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chat w G"
+              "title": "Low level design"
             }
           },
           {
-            "id": "af004f8a6711b845",
+            "id": "525d04602f55afc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/MIT/6.006/Questions from revision.md",
+                "file": "Job Apps/sierra/Sierra product engineering experience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions from revision"
+              "title": "Sierra product engineering experience"
             }
           },
           {
-            "id": "9fd14aeb199b53bb",
+            "id": "458dbd45dd114341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System design/Homomorphic Encryption.md",
+                "file": "Job Apps/sierra/Sierra product engineering experience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homomorphic Encryption"
+              "title": "Sierra product engineering experience"
             }
           },
           {
-            "id": "b817cc07a5c02aa8",
+            "id": "aabd80072539390f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/MIT/6.006/Lecture 13 Dijkstra.md",
+                "file": "Job Apps/sierra/Sierra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 13 Dijkstra"
+              "title": "Sierra"
             }
           },
           {
-            "id": "7681f2b6567d2cf4",
+            "id": "8d6f85166e6e87c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/MIT/6.006/Lecture 15 DP.md",
+                "file": "Job Apps/sierra/Sierra Take Home project notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 15 DP"
-            }
-          },
-          {
-            "id": "7b552a635691eb71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anki scribbles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anki scribbles"
-            }
-          },
-          {
-            "id": "0426a05caec19fcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side/Side w G/Stuff Gregor sent over.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stuff Gregor sent over"
-            }
-          },
-          {
-            "id": "c6bc2a03cb6cc504",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side/Side w G/Notes from call.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes from call"
-            }
-          },
-          {
-            "id": "d2c5710558021479",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side/Side w G/For meetings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "For meetings"
-            }
-          },
-          {
-            "id": "bf88ce53a309c59f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side/Side w G/Notes from the meeting with Compus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes from the meeting with Compus"
-            }
-          },
-          {
-            "id": "f9ea243d8cfc864e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side/Side w G/Notes from the meeting with Compus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes from the meeting with Compus"
-            }
-          },
-          {
-            "id": "d9924294f064ae06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side/Side w G/Compus - Notes from the meeting with.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Compus - Notes from the meeting with"
-            }
-          },
-          {
-            "id": "b236c963c2df7018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side/Side w G/FTI Consulting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FTI Consulting"
-            }
-          },
-          {
-            "id": "86811962df39d1e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Side/Side w G/Brettle - notes from the call.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brettle - notes from the call"
-            }
-          },
-          {
-            "id": "94b00e4f554a09af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recruiters/Notes from call on 15-10-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes from call on 15-10-2025"
-            }
-          },
-          {
-            "id": "41d172af74f7e173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/readme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "readme"
+              "title": "Sierra Take Home project notes"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -377,8 +223,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -392,62 +238,62 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f82af1819b61c23",
+  "active": "8d6f85166e6e87c3",
   "lastOpenFiles": [
-    "Recruiters/Call w Matteo.md",
-    "Recruiters/Notes from call on 15-10-2025.md",
-    "Side/Side w G/FTI Consulting.md",
+    "Job Apps/sierra/Sierra.md",
+    "Job Apps/sierra/Sierra Take Home project notes.md",
+    "Job Apps/sierra/Sierra product engineering experience.md",
+    "Job Apps/sierra",
+    "Job Apps",
+    "Recruiters/Stanford Black.md",
+    "low level design/Practice/Expense Sharing Application.md",
+    "low level design/Low level design.md",
+    "low level design/Practice",
+    "System design/Homomorphic Encryption.md",
+    "System design/HelloInterview/Networking Essentials.md",
+    "Programming/MIT/6.006/Lecture 11.md",
     "Side/Side w G/Brettle - notes from the call.md",
-    "Side/Side w G/For meetings.md",
+    "Side/Side w G/FTI Consulting.md",
     "Side/Side w G/Compus - Notes from the meeting with.md",
-    "Side/Side w G/BRG - Notes from meeting with.md",
+    "Side/Side w G/For meetings.md",
     "Side/Side w G/Notes from call.md",
     "Side/Side w G/Stuff Gregor sent over.md",
-    "Side/Capytal/Some random notes.md",
+    "Anki scribbles.md",
+    "Programming/MIT/6.006/Lecture 15 DP.md",
+    "Programming/MIT/6.006/Lecture 13 Dijkstra.md",
     "Side/Side w G/Chat w G.md",
+    "Programming/readme.md",
+    "Recruiters/Notes from call on 15-10-2025.md",
+    "Recruiters/Call w Matteo.md",
+    "Programming/MIT/6.006/Lecture 12 Bellman-Ford.md",
+    "Programming/MIT/6.006/Lecture 14 APSP and Johnson's Algorithm.md",
+    "Programming/MIT/6.006/Questions.md",
+    "Programming/MIT/6.006/Lecture 18 DP IV.md",
+    "low level design",
     "Pasted image 20260223154915.png",
     "Pasted image 20260223151243.png",
     "Pasted image 20260218121010.png",
-    "System design/Homomorphic Encryption.md",
-    "System design/Scalability.md",
-    "System design/HelloInterview/Networking Essentials.md",
-    "Programming/MIT/6.006/Lecture 14 APSP and Johnson's Algorithm.md",
-    "Programming/MIT/6.006/Lecture 15 DP.md",
-    "Programming/MIT/6.006/Problem session 4.md",
-    "Programming/MIT/6.006/Lecture 18 DP IV.md",
-    "Programming/MIT/6.006/Lecture 16 DP II - LCS, LIS, Coins.md",
-    "BFS Summary.md",
-    "Programming/readme.md",
     "System Design 1",
-    "Programming/MIT/6.006/Lecture 12 Bellman-Ford.md",
     "System design/HelloInterview",
-    "Programming/MIT/6.006/Questions from revision.md",
-    "Programming/MIT/6.006/quicknotes.md",
-    "Programming/MIT/6.006/Quiz 1 review.md",
-    "Programming/MIT/6.006/Quiz 2 review.md",
     "Side/Side w G",
     "Side/Capytal",
     "Recruiters",
     "System design",
-    "Side",
     "Programming/MIT/imgs/Pasted image 20250529222223.png",
     "Programming/MIT/imgs/Pasted image 20250529214822.png",
     "Programming/MIT/imgs/Pasted image 20250527164344.png",
     "Programming/MIT/imgs/Pasted image 20250527163027.png",
     "Programming/MIT/imgs/Pasted image 20250527163918.png",
     "Pasted image 20250527162629.png",
-    "Pasted image 20250527162334.png",
-    "Programming",
-    "obsidian",
-    "prog"
+    "Pasted image 20250527162334.png"
   ]
 }
