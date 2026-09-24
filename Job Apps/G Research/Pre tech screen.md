@@ -1,0 +1,59 @@
+- coding round - example qs are:
+	- newspaper article and separate ransom note, whether ransom can be found in newspaper (yes or no)
+		- how does it scale
+	- Fridge magnets - bucket of magnets all have a single word, leave message on the fridge using one word from each bucket; Can make that sentence or not
+	- Camera question - cameras placed over irregular intervals, some overlap determine which are not needed
+	- array of integers  - triplet sum
+	- agile vs waterfall
+	- different methods of testing
+	- how do you stay up to date
+	- microservice experience
+	- service orientated arch
+	- containers
+	- garbage collections
+	- dictionaries - how does it work etc
+	- dependency injection - when use and why
+	- btrees
+	- processes vs threads
+
+- first round is assessment of engineering knowledge in a very broad way
+	- networking (TCP vs UDP)
+	- XML vs JSON messaging
+	- DATA encryption
+	- types of attacks
+	- data storage
+	- brainteaser type questions - billion of telephone numbers
+
+## Onsite
+- three areas
+	- pair programming
+	- system design
+	- algo and ds
+- pair
+	- collaborative
+	- not come across to strongly minded but back my decisions
+	- try to keep this real world
+	- well written code
+	- can use reference material
+	- unit testing
+	- thread safety
+	- dependency injection and multithreading
+	- implementing a working hash
+	- hash tables and type safety
+- SD
+	- point out challenges and give comments on how overcome
+	- DS choices and algo
+	- algo complexity
+	- designing for testability
+	- clarify requirements
+	- proposal of design
+	- optimisation
+	- mutability
+	- paralelisation
+- Multiple algos problem
+	- soln on whiteboard or paper
+	- hash sets or sort sets
+	- graphs
+	- bt questions
+- Practicing coding challenges online
+- 

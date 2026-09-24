@@ -90,9 +90,93 @@
               "icon": "lucide-file",
               "title": "Sierra Take Home project notes"
             }
+          },
+          {
+            "id": "fd39e010caf45aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job Apps/G Research/Pre tech screen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pre tech screen"
+            }
+          },
+          {
+            "id": "48cc35e16ad7192e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job Apps/sierra/Sierra Take Home project notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sierra Take Home project notes"
+            }
+          },
+          {
+            "id": "bef6b16522ba28b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job Apps/G Research/Pre tech screen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pre tech screen"
+            }
+          },
+          {
+            "id": "448cb8e5458dd385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job Apps/G Research/Pre tech screen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pre tech screen"
+            }
+          },
+          {
+            "id": "05e05d16d040cbf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job Apps/G Research/Pre tech screen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pre tech screen"
+            }
+          },
+          {
+            "id": "1f2138b54b578e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni pagalba/Laiskas Lukui.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laiskas Lukui"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -112,7 +196,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -247,10 +333,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d6f85166e6e87c3",
+  "active": "1f2138b54b578e13",
   "lastOpenFiles": [
-    "Job Apps/sierra/Sierra.md",
+    "Uni pagalba/Laiskas Lukui.md",
+    "Uni pagalba",
+    "Job Apps/G Research/Pre tech screen.md",
+    "Job Apps/G Research/Final round.md",
+    "soft skills/Story journaling.md",
+    "Recruiters/Oliver Fewell.md",
+    "Job Apps/sierra/Sierra follow up.md",
     "Job Apps/sierra/Sierra Take Home project notes.md",
+    "soft skills",
+    "Job Apps/G Research",
+    "Job Apps/sierra/Sierra.md",
     "Job Apps/sierra/Sierra product engineering experience.md",
     "Job Apps/sierra",
     "Job Apps",
@@ -271,13 +366,6 @@
     "Programming/MIT/6.006/Lecture 15 DP.md",
     "Programming/MIT/6.006/Lecture 13 Dijkstra.md",
     "Side/Side w G/Chat w G.md",
-    "Programming/readme.md",
-    "Recruiters/Notes from call on 15-10-2025.md",
-    "Recruiters/Call w Matteo.md",
-    "Programming/MIT/6.006/Lecture 12 Bellman-Ford.md",
-    "Programming/MIT/6.006/Lecture 14 APSP and Johnson's Algorithm.md",
-    "Programming/MIT/6.006/Questions.md",
-    "Programming/MIT/6.006/Lecture 18 DP IV.md",
     "low level design",
     "Pasted image 20260223154915.png",
     "Pasted image 20260223151243.png",
@@ -285,9 +373,6 @@
     "System Design 1",
     "System design/HelloInterview",
     "Side/Side w G",
-    "Side/Capytal",
-    "Recruiters",
-    "System design",
     "Programming/MIT/imgs/Pasted image 20250529222223.png",
     "Programming/MIT/imgs/Pasted image 20250529214822.png",
     "Programming/MIT/imgs/Pasted image 20250527164344.png",
